@@ -8,3 +8,96 @@ body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+
+
+.container{
+  padding: 190px 125px;
+  background: #1c5380;
+}
+
+
+.left{
+  float: left;
+  width: 350px
+}
+
+.phone{
+  float: left;
+  margin: 20px
+}
+
+.right{
+  float: left;
+  width: 410px;
+  margin: 20px;
+}
+
+
+.logo{
+  float: left;
+  padding: 10px;
+}
+
+.instagram{
+  width: 270px
+}
+
+.login-box{
+  float: right;
+  padding: 13px;
+  margin: 18px 4px;
+}
+
+
+.text{
+clear: both;
+background-color: white;
+border-radius: 10px;
+padding: 15px;
+margin: 15px;
+box-shadow: 2px 2px 2px ;
+}
+
+.android{
+  float: left;
+  padding: 20px;
+}
+
+.iphone{
+  float: left;
+  padding: 20px;
+}
+
+.footer{
+  clear: both;
+  margin: 0 auto;
+  /* width: 600px; */
+  color: #1c5380;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  list-style-type: none;
+}
+
+.footer ul{
+  list-style-type: none;
+}
+
+.footer li {
+  display: inline;
+  margin: 0px 5px;
+}
+button {
+  color: white;
+    text-align:center;
+   background-color: #06365f;
+   padding:5px 5px;
+   font-weight: 400;
+   border:1px solid #1c5380;
+
+}
+
+.copyright{
+  color: grey;
+}
